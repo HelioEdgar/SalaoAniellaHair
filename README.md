@@ -4,9 +4,9 @@ Sistema desenvolvido em Laravel com o objectivo de facilitar o agendamento de  s
 
 Telas do sistema
 
-Tela Principal
+Tela Principal <br>
 ![image](https://github.com/HelioEdgar/SalaoAniellaHair/assets/111396187/ac90b484-0ccc-41d5-bb45-ef6fc4a7b901)
-
+<br>
 Tela com os serviço oferecidos pelo salão
 ![image](https://github.com/HelioEdgar/SalaoAniellaHair/assets/111396187/b099a987-c956-4bf4-b481-0429f1da5fbe)
 
