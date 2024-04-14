@@ -13,7 +13,6 @@ Tela com os serviço oferecidos pelo salão
 ![image](https://github.com/HelioEdgar/SalaoAniellaHair/assets/111396187/4192e706-871b-4c59-b50a-dc7f8a22dc1e)
 
 
-
 Painel administrativo com os clientes cadastrados no sistema
 
 ![image](https://github.com/HelioEdgar/SalaoAniellaHair/assets/111396187/75810fc4-ae01-48c2-a54e-5b3f20bf1f0b)
