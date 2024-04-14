@@ -9,6 +9,7 @@ Tela Principal
 ![image](https://github.com/HelioEdgar/SalaoAniellaHair/assets/111396187/ac90b484-0ccc-41d5-bb45-ef6fc4a7b901)
 
 Tela com os serviço oferecidos pelo salão
+
 ![image](https://github.com/HelioEdgar/SalaoAniellaHair/assets/111396187/4192e706-871b-4c59-b50a-dc7f8a22dc1e)
 
 
